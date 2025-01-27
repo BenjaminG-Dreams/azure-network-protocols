@@ -25,10 +25,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Use Remote Desktop to connect to your Windows 10 Virtual Machine
+- Step 2: Within your Windows 10 Virtual Machine, Install the WireShak application
+- Step 3: Ping the Ubuntu Virtual Machine to observe ICMP traffic, disable and re-enable ICMP traffic through the Network Security Group
+- Step 4: Observe SSH traffic on the Windows Virtual Machine
+- Step 5: Observe DNS traffic on the Windows Virtual Machine
+- Step 6: Observe RDP traffic on the Windows Virtual Machine
+- Step 7: Clean up by deleting the resource groups to ensure we don't incur any charges
 
 <h2>Actions and Observations</h2>
 
