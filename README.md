@@ -35,11 +35,17 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/zh6pL9D.png"/>
-<img src="https://i.imgur.com/5jr5619.png"/>
-<img src="https://i.imgur.com/MaPydFb.png"/>
-</p>
+![Screenshot 2025-01-29 195414](https://github.com/user-attachments/assets/7430437c-ff10-4d70-981e-c1a03c334fed)
+
+![Screenshot 2025-01-29 195612](https://github.com/user-attachments/assets/33772f21-6c22-471d-99ab-a8059dc58a5a)
+
+![Screenshot 2025-01-29 195735](https://github.com/user-attachments/assets/656ba319-22a7-46f8-b018-7c02b58f4e6f)
+
+![Screenshot 2025-01-29 195914](https://github.com/user-attachments/assets/8d093ac3-ab04-47db-b2d0-10ef5be13197)
+
+![Screenshot 2025-01-29 200102](https://github.com/user-attachments/assets/819445c0-3dfc-4f43-8bf8-342ab116fb03)
+
+
 <p>
 First, enter the Azure portal by going to https://portal.azure.com/. 
 
@@ -47,25 +53,45 @@ After you enter the portal, go to you Windows VM and copy the public IP address.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/IvvQ2YL.png"/>
-</p>
+![Screenshot 2025-01-29 200350](https://github.com/user-attachments/assets/45396727-b432-4e68-b1ab-8839e5318bc6)
+
 <p>
 Check everything to no in the privacy settings when the VM finally loads up.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/y5TSvVp.png"/>
-</p>
+![Screenshot 2025-01-29 200610](https://github.com/user-attachments/assets/95d6b744-8a38-4b8d-a57a-857c8359e358)
+
+
 <p>
 In the VM, go to the EDGE browser and download Wireshark. You can copy and paste this link (https://www.wireshark.org/download.html). You will need to download the Windows Installer (64-bit)
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/oO0WZCJ.png"/>
-</p>
+![Screenshot 2025-01-29 200824](https://github.com/user-attachments/assets/b93748ca-d9b2-4e80-bcf2-99b7132a22f4)
+
+![Screenshot 2025-01-29 200901](https://github.com/user-attachments/assets/adf1077f-3e71-46d4-8793-5b30c6cd27b2)
+
+![Screenshot 2025-01-29 200917](https://github.com/user-attachments/assets/0ad59320-ecb0-43a6-b556-74323269e911)
+
+![Screenshot 2025-01-29 201102](https://github.com/user-attachments/assets/e3091274-37af-4264-ace6-06b39554b97c)
+
+![Screenshot 2025-01-29 201141](https://github.com/user-attachments/assets/96127d2f-2ad8-4836-97ba-4a9d5f170b1c)
+
+![Screenshot 2025-01-29 201202](https://github.com/user-attachments/assets/28cc6078-b766-46a5-b72b-2d4e11a314a8)
+
+![Screenshot 2025-01-29 201253](https://github.com/user-attachments/assets/90799fa9-83ad-4b01-8d60-4289634d52c1)
+
+![Screenshot 2025-01-29 201329](https://github.com/user-attachments/assets/5d4fcecc-edfa-4b48-ad26-3d93ef73c0a4)
+
+![Screenshot 2025-01-29 201410](https://github.com/user-attachments/assets/31258ec1-30d4-47c1-83f4-f5234dfa467f)
+
+![Screenshot 2025-01-29 201456](https://github.com/user-attachments/assets/2ad3d89f-eda6-4cb9-8d27-be9fe7d4b332)
+
+![Screenshot 2025-01-29 201741](https://github.com/user-attachments/assets/cc85d688-f2ee-48eb-a8b1-652d380f0ce0)
+
+![Screenshot 2025-01-29 201826](https://github.com/user-attachments/assets/a17dced2-eb4b-473c-aaf6-00d1b290485d)
+
 <p>
 Open the installer and install everything to the default settings by pressing "Next" all the way to the end.
 </p>
